@@ -11,6 +11,9 @@ A modern web app to view **current weather** and **air quality index (AQI)** for
 - 💬 **Responsive UI** built with Next.js and React
 - 🐍 **Flask backend** for AQI prediction from PM2.5
 
+  ## Preview
+https://aqi-weather-app-git-main-harshitdwivedi11s-projects.vercel.app/
+
 
 
 ## 🏗️ Project Structure
