@@ -11,13 +11,7 @@ A modern web app to view **current weather** and **air quality index (AQI)** for
 - 💬 **Responsive UI** built with Next.js and React
 - 🐍 **Flask backend** for AQI prediction from PM2.5
 
----
 
-## 🖼️ Preview
-
-![Weather Dashboard Screenshot](./screenshot.png)
-
----
 
 ## 🏗️ Project Structure
 
@@ -33,8 +27,8 @@ A modern web app to view **current weather** and **air quality index (AQI)** for
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/harshitdwivedi11/aqi-weather-app.git
+cd aqi-weather-app.git
 ```
 
 ---
